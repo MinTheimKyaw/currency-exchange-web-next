@@ -10,5 +10,8 @@ First, run the development server:
 npm run dev
 ```
 
+## node version 
+20.9.0 or greater
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
